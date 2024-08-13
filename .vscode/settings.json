@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.disable": [
+        "redefined-local"
+    ],
+    "Lua.diagnostics.globals": [
+        "continue",
+        "add"
+    ]
+}
